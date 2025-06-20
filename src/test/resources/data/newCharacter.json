@@ -1,0 +1,6 @@
+{
+  "name": "Sonic",
+  "alterego": "Super sonico",
+  "description": "Erizo azul con super velocidad",
+  "powers": ["velocidad", "agilidad", "resistencia"]
+}
